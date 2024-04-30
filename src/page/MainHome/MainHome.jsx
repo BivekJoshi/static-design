@@ -68,7 +68,7 @@ const MainHome = () => {
     return (
         <div style={{ position: "relative", width: "100%", height: "550px" }}>
             <img src={BackImage} style={{ width: "100%", height: "100%", objectFit: "cover" }} />
-            <div style={{ position: "absolute", top: 0, left: 0, width: "100%", height: "100%", backgroundColor: "rgba(0, 0, 255, 0.6)" }}></div>
+            <div style={{ position: "absolute", top: 0, left: 0, width: "100%", height: "100%", backgroundColor: "rgba(0, 0, 255, 0.4)" }}></div>
             <div style={{ position: "absolute", bottom: 0, height: "90px", backgroundColor: "#34D6FF", width: "100%" }}>
                 <div style={{ color: "white" }}>
                     <h1 className="responsive-text">20+ Years of Experience</h1>

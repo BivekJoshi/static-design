@@ -20,7 +20,7 @@ const Services = () => {
                 <Card maxWidth="400px" title='Commercial Property Mainteanace'/>
                 <Card maxWidth="400px" title="Preventative maintenance"/>
             </div>
-            <div style={{ position: 'absolute', top: 0, right: 0, bottom: 0, width: '40%', backgroundColor: '#F9FAFF',height:"500px",zIndex:-10 }}></div>
+            <div style={{ position: 'absolute', top: 0, right: 0, bottom: 0, width: '40%', backgroundColor: 'rgb(217, 239, 244)',height:"500px",zIndex:-10 }}></div>
         </div>
     );
 }
